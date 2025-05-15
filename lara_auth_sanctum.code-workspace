@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "lara_auth_sanctum",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
